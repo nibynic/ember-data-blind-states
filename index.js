@@ -2,5 +2,5 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-data-tolerant-states'
+  name: 'ember-data-blind-states'
 };

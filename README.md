@@ -1,4 +1,4 @@
-# Ember-data-tolerant-states
+# Ember-data-blind-states
 
 This README outlines the details of collaborating on this Ember addon.
 
